@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj": {}
+    "/Users/jameshay/Documents/GitHub/BuberBreakfast/buberBreakfast/BuberBreakfast.csproj": {}
   },
   "projects": {
     "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj": {
@@ -58,14 +58,14 @@
         }
       }
     },
-    "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj": {
+    "/Users/jameshay/Documents/GitHub/BuberBreakfast/buberBreakfast/BuberBreakfast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+        "projectUniqueName": "/Users/jameshay/Documents/GitHub/BuberBreakfast/buberBreakfast/BuberBreakfast.csproj",
         "projectName": "BuberBreakfast",
-        "projectPath": "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+        "projectPath": "/Users/jameshay/Documents/GitHub/BuberBreakfast/buberBreakfast/BuberBreakfast.csproj",
         "packagesPath": "/Users/jameshay/.nuget/packages/",
-        "outputPath": "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/obj/",
+        "outputPath": "/Users/jameshay/Documents/GitHub/BuberBreakfast/buberBreakfast/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jameshay/.nuget/NuGet/NuGet.Config"
