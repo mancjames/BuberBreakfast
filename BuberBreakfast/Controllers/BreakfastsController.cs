@@ -20,7 +20,7 @@ public class BreakfastController : ControllerBase
             request.EndDateTime,
             DateTime.UtcNow,
             request.Savory,
-            request.Sweet)
+            request.Sweet);
 
             //TODO: save to database 
 
@@ -33,7 +33,7 @@ public class BreakfastController : ControllerBase
                 breakfast.LastModifiedDateTime,
                 breakfast.Savory,
                 breakfast.Sweet
-            )
+            );
 
         return CreatedAtAction(
             actionName: nameof(GetBreakfast),
