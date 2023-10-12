@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jameshay/Documents/GitHub/BuberBreakfast/buberBreakfast/BuberBreakfast.csproj": {}
+    "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj": {}
   },
   "projects": {
     "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj": {
@@ -17,15 +17,15 @@
           "/Users/jameshay/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -36,8 +36,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -58,20 +58,20 @@
         }
       }
     },
-    "/Users/jameshay/Documents/GitHub/BuberBreakfast/buberBreakfast/BuberBreakfast.csproj": {
+    "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jameshay/Documents/GitHub/BuberBreakfast/buberBreakfast/BuberBreakfast.csproj",
+        "projectUniqueName": "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
         "projectName": "BuberBreakfast",
-        "projectPath": "/Users/jameshay/Documents/GitHub/BuberBreakfast/buberBreakfast/BuberBreakfast.csproj",
+        "projectPath": "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
         "packagesPath": "/Users/jameshay/.nuget/packages/",
-        "outputPath": "/Users/jameshay/Documents/GitHub/BuberBreakfast/buberBreakfast/obj/",
+        "outputPath": "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jameshay/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
@@ -79,8 +79,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
               "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj": {
                 "projectPath": "/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj"
@@ -95,8 +95,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
