@@ -1,0 +1,6 @@
+/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/obj/Debug/net6.0/BuberBreakfast.csproj.AssemblyReference.cache
+/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/obj/Debug/net6.0/BuberBreakfast.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/obj/Debug/net6.0/BuberBreakfast.AssemblyInfoInputs.cache
+/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/obj/Debug/net6.0/BuberBreakfast.AssemblyInfo.cs
+/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/obj/Debug/net6.0/BuberBreakfast.csproj.CoreCompileInputs.cache
+/Users/jameshay/Documents/GitHub/BuberBreakfast/BuberBreakfast/obj/Debug/net6.0/BuberBreakfast.MvcApplicationPartsAssemblyInfo.cache

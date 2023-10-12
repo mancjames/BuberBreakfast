@@ -1,3 +1,5 @@
+using BuberBreakfast.Services.Breakfasts;
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
